@@ -2,7 +2,7 @@
 
 Automate Warp+ cloudflare with heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HuzunluArtemis/WarpPlusCloudflareHeroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sushank1/WarpPlusCloudflareHeroku)
 
 ## Setting up config file
 <details>
